@@ -1,5 +1,4 @@
 import { checkStock } from './index';
-import { Stocks } from "./constants";
 
 const checkStocks = async() => {
     try {
